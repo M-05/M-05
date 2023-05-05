@@ -9,7 +9,7 @@
 
 [<img width="140" alt="프로그래머스 사이트" src="https://user-images.githubusercontent.com/103846429/236401722-c9b61930-fbf2-4ae0-966e-d7abea7e9381.png">](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&levels=1%2C0&languages=python3)  I had a coding test meeting called [CONAN](https://www.notion.so/modulabs/1dd14f4bfd0a4fe5a7c56789ffced27f) during `Aiffel` 🔭 <img width="200" alt="프로그래머스 푼 문제" src="https://user-images.githubusercontent.com/103846429/236403343-b49e1ff9-93b2-45b5-8ba2-fa8c0c5b5e9a.png"> `(23.05.05)`
 
-<img width="44" alt="python" src="https://user-images.githubusercontent.com/103846429/236408266-293ae905-6517-48ad-ad38-57494b21825a.jpeg"> <img width="44" alt="python" src="https://user-images.githubusercontent.com/103846429/236408608-97766fcc-7539-4363-bc83-d569728d1820.png">
+<img width="44" alt="python" src="https://user-images.githubusercontent.com/103846429/236408266-293ae905-6517-48ad-ad38-57494b21825a.jpeg"> <img width="44" alt="python" src="https://user-images.githubusercontent.com/103846429/236408608-97766fcc-7539-4363-bc83-d569728d1820.png"> [<img width="444" alt="아이펠톤 프로그래밍 언어" src="https://user-images.githubusercontent.com/103846429/236410878-a7c414f2-a5be-4ba7-9292-3191bcdba73c.png">](https://github.com/aiffelthon-gal/gal)
 
 
 
